@@ -30,10 +30,14 @@ You can make elements into links by nesting them within an a element.
 -->
 
 <!-- Неупорядоченный список начинается тегом <ul>. Каждый пункт списка начинается тегом <li>, которые отмечаются маркерами bullet point (небольшие черные точки) 
-     unordered lists
+     Unordered Lists UL
 -->
 <ul>
     <li>outdoors</li>
     <li>milk</li>
     <li>mice</li>
   </ul>
+  
+  <!-- Упорядоченные списки начинаются с тега <ol>. Каждый пункт списка начинается тегом <li>, которые маркеруются числами
+       Ordered Lists OL
+  -->
