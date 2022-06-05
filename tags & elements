@@ -18,8 +18,12 @@
   
 <!--   <a> anchor элемент определяет гиперссылку для перехода на определенное место на странице или на другую страницу в интернете      
 href атрибут в HTML5 указывает ссылу: либо URL, либо якорь
-Якорь - это название после символа #, который указывает на элемент ID на текущей странице - ВНУТРЕННЯЯ ССЫЛКА
+Якорь - это название после символа #, который указывает на элемент ID на текущей странице - ВНУТРЕННЯЯ ССЫЛКА: <a href="#footer" >Jump to Bottom</a>
 They also need anchor text which provides contextual information about the content pf link's destination: 
 then your browser will display the text this links to freecodecamp.org as a link you can click
 -->
 <a href="https://www.freecatphotoapp.com">cat photos</a>
+
+
+<!-- target is an anchor tag attribute that specifies where to open the link. The value _blank specifies to open the link in a new tab -->
+
