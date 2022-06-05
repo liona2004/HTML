@@ -59,4 +59,5 @@ You can make elements into links by nesting them within an a element.
    
   <form action="https://www.freecatphotoapp.com/submit-cat-photo">
     <input type="text" placeholder="cat photo URL">
+    <button type="submit">Submit</button>
   </form>
