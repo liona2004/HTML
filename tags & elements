@@ -25,5 +25,15 @@ then your browser will display the text this links to freecodecamp.org as a link
 <a href="https://www.freecatphotoapp.com">cat photos</a>
 
 
-<!-- target is an anchor tag attribute that specifies where to open the link. The value _blank specifies to open the link in a new tab -->
+<!-- target is an anchor tag attribute that specifies where to open the link. The value _blank specifies to open the link in a new tab 
+You can make elements into links by nesting them within an a element.
+-->
 
+<!-- Неупорядоченный список начинается тегом <ul>. Каждый пункт списка начинается тегом <li>, которые отмечаются маркерами bullet point (небольшие черные точки) 
+     unordered lists
+-->
+<ul>
+    <li>outdoors</li>
+    <li>milk</li>
+    <li>mice</li>
+  </ul>
