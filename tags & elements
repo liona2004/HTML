@@ -45,6 +45,9 @@ You can make elements into links by nesting them within an a element.
   
   <!-- элемент <input> используется для получения данных от пользователя через интерактивные элементы
   Атрибут type тип text - текстовое поле предназначено для ввода с помощью клавиатуры. Может быть тип button, file, image, password, submit и т.д. 
+ 
+  input elements are self-closing: <input type="text" placeholder="cat photo URL">
+  Атрибут placeholder - выводит текст внутри поля формы, который исчезает при печати
   
   -->
   
