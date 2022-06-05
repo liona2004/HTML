@@ -18,7 +18,7 @@
   
 <!--   <a> anchor элемент определяет гиперссылку для перехода на определенное место на странице или на другую страницу в интернете      
 href атрибут в HTML5 указывает ссылу: либо URL, либо якорь
-Якорь - это название после символа #, который указывает на элемент ID на текущей странице
+Якорь - это название после символа #, который указывает на элемент ID на текущей странице - ВНУТРЕННЯЯ ССЫЛКА
 They also need anchor text which provides contextual information about the content pf link's destination: 
 then your browser will display the text this links to freecodecamp.org as a link you can click
 -->
