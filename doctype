@@ -10,3 +10,10 @@ your HTML code would go in the space between the two html tags
 <html>
 <h1></h1>
 </html>
+
+<!--
+<head> показывает начало заголовка
+<body> показывает начало основной части документа (тело) </body> конец основной части 
+
+Metadata elements, such as link, meta, title, and style, typically go inside the head element.
+-->
