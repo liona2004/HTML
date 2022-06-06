@@ -79,7 +79,8 @@ You can make elements into links by nesting them within an a element.
   Inputs of type radio and checkbox report their values from the value attribute. Value атрибут задает, какое значение будет отправлено на сервер
   the value attribute needs to be set to something to identify the option
   
-  
+  Атрибут checked определяет, помечен ли заранее флажок или переключатель
+  <input type="radio" name="test-name" checked>
   
   
   
