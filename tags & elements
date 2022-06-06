@@ -73,9 +73,11 @@ You can make elements into links by nesting them within an a element.
   
 
   Тип Checkbox флажки используют, когда необходимо выбрать несколько из предложенных вариантов
-  <label for="indoor"><input id="indoor" type="checkbox" name="personality"> Indoor</label>
+  <label for="indoor"><input id="lazy" type="checkbox" name="personality"> Indoor</label>
   
   
+  Inputs of type radio and checkbox report their values from the value attribute. Value атрибут задает, какое значение будет отправлено на сервер
+  the value attribute needs to be set to something to identify the option
   
   
   
