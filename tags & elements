@@ -72,6 +72,8 @@ You can make elements into links by nesting them within an a element.
 <label for="indoor">Indoor</label>
   
 
+  Тип Checkbox флажки используют, когда необходимо выбрать несколько из предложенных вариантов
+  <label for="indoor"><input id="indoor" type="checkbox" name="personality"> Indoor</label>
   
   
   
