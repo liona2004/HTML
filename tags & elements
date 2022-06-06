@@ -82,9 +82,7 @@ You can make elements into links by nesting them within an a element.
   Атрибут checked определяет, помечен ли заранее флажок или переключатель
   <input type="radio" name="test-name" checked>
   
-  
-  
-  
-  
+  div блочный элемент тег не самозакрывающийся, поэтому </div> - используется для группировки контента, что позволяет его легко стилизовать атрибутами calss или id 
+  division element выделяет фрагмент документа с целью изменения вида содержимого
   
   
