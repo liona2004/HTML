@@ -61,3 +61,25 @@ You can make elements into links by nesting them within an a element.
     <input type="text" placeholder="cat photo URL">
     <button type="submit">Submit</button>
   </form>
+  
+  
+<!-- Тег <label> устанавливает связь между меткой/текстом и элементом формы <input>
+  2 способа связывания объекта и метки
+  <label><input type="radio" name="indoor-outdoor">Indoor</label>
+  
+  for атрибут - это идентификатор элемента, с которым следует установить связь ID input элемента
+  <input id="indoor" type="radio" name="indoor-outdoor">
+<label for="indoor">Indoor</label>
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
